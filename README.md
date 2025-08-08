@@ -1,6 +1,6 @@
 # RegexOne Practice Log
 
-## 🧠 Overview
+## Overview
 Today spent dedicated hours to practice **regular expressions** using [RegexOne](https://regexone.com/).
 
 The goal:
@@ -11,7 +11,7 @@ The goal:
 ---
 
 ## 📚 Lessons & Exercises Completed
-### ✅ Lessons
+
 1. Introduction
 2. The Dot (.)
 3. Matching Specific Characters
@@ -28,7 +28,7 @@ The goal:
 14. Conditional Matching
 15. Other Special Characters
 
-### 🏹 Key Patterns Learned
+### Key Patterns Learned
 | Pattern | Purpose |
 |---------|---------|
 | `\d` | Match any digit |
@@ -41,7 +41,7 @@ The goal:
 
 ---
 
-## 🧠 Takeaways
+## Takeaways
 - Regex is **foundational** to detection engineering.
 - Many YARA rules can be elevated by replacing literal strings with **regex-based conditions**.
 - Escaping matters (`\.` vs `.`) — a single missing backslash can change everything.
@@ -49,7 +49,7 @@ The goal:
   
 ---
 
-## 🙏 Credits & Acknowledgement
+## Credits & Acknowledgement
 This work was **based entirely on exercises provided by [RegexOne](https://regexone.com/)**.  
 They provide **free, high-quality learning resources** for anyone to master regular expressions.
 
